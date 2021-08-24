@@ -1,0 +1,232 @@
+body{
+
+  background-color: #082032;
+
+}
+
+
+
+li{
+
+
+  font-family: 'Hina Mincho', serif;
+}
+
+.big{
+
+display: block;
+margin-bottom: 150px;
+
+
+}
+
+
+.cent{
+  margin-top: 0px;
+display: inline-block;
+position: relative;
+left: 49%;
+color: #F7D59C;
+font-family: cursive;
+margin-bottom: 5px;
+
+}
+
+span{
+  margin-left: 3%;
+}
+.skill{
+
+  color: white;
+
+  position:relative;
+left: 33%;
+}
+.skill1{
+
+  color: white;
+  padding-right: 7px;
+  position:relative;
+left: 29%;
+}
+
+.cert{
+
+  margin-top: 0px;
+display: inline-block;
+position: relative;
+left: 44%;
+color: #F7D59C;
+font-family: cursive;
+margin-bottom: 5px;
+}
+.cert1{
+
+  margin-top: 0px;
+display: inline-block;
+position: relative;
+left: 46%;
+color: #F7D59C;
+font-family: cursive;
+margin-bottom: 5px;
+}
+
+.prof{
+
+  margin-top: 0px;
+display: inline-block;
+position: relative;
+left: 38%;
+color: #F7D59C;
+font-family: cursive;
+margin-bottom: 5px;
+}
+
+.titles{
+  margin-top: 0px;
+  display: inline-block;
+  position: relative;
+  color: #F7D59C;
+  font-family: monospace;
+  margin-bottom: 5px;
+
+}
+
+.imgsmall{
+  display: inline-block;
+  position: relative;
+  left: 49%;
+  height: 80px;
+  width: 80px;
+  margin-bottom: 0px;
+
+}
+
+.image{
+display: inline-block;
+position: relative;
+left: 41%;
+height: 300px;
+width: 300px;
+margin-bottom: 0px;
+}
+
+
+.name{
+  margin-top: 0px;
+display: inline-block;
+position: relative;
+left: 45%;
+color: #F7D59C;
+font-family: cursive;
+margin-bottom: 5px;
+}
+
+.details{
+margin-top: 0px;
+display: inline-block;
+position: relative;
+left: 45%;
+color: white;
+font-family: monospace;
+margin-bottom: 5px;
+}
+
+.Linkedin{
+display: inline-block;
+position:relative;
+left: 45%;
+height: 30px;
+width: 30px;
+margin-top: 0px;
+margin-bottom: 5px;
+}
+
+.insta{
+display: inline-block;
+position:relative;
+left: 45%;
+height: 30px;
+width: 30px;
+margin-top: 0px;
+margin-bottom: 5px;
+}
+
+.facebook{
+display: inline-block;
+position:relative;
+left: 45%;
+height: 30px;
+width: 30px;
+margin-top: 0px;
+margin-bottom: 5px;
+}
+
+.table{
+color: white;
+padding-right: 7px;
+position:relative;
+
+}
+
+.hackerrank{
+display: inline-block;
+position:relative;
+left: 45%;
+height: 60px;
+width: 60px;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+
+hr{
+
+  width:15%;
+  border-style:none;
+  border-top-style:dotted;
+  border-width:10px;
+  color:grey;
+  margin-left: 44%;;
+
+}
+
+td{
+
+  color: white;
+  padding-right: 7px;
+  position:relative;
+}
+
+#space{
+position: relative;
+  width: 200px;
+}
+#space1{
+position: relative;
+  width: 285px;
+}
+
+.company_logo{
+
+
+  display: inline-block;
+  position:relative;
+  left: 140%;
+  height: 80px;
+  width: 80px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+
+}
+.company_logo1{
+
+
+  display: inline-block;
+  position:relative;
+  left: 160%;
+  height: 80px;
+  width: 80px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+
+}
