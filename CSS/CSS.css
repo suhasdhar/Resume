@@ -67,10 +67,11 @@ span{
 
 .cert{
 
-  margin-top: 0px;
-display: inline-block;
-position: relative;
-left: 44%;
+   display: block;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  text-align:center;
 color: #F7D59C;
 font-family: cursive;
 margin-bottom: 5px;
